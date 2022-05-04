@@ -1,0 +1,9 @@
+Frontend : https://telco-customer-churn-h8.herokuapp.com/
+Backend  : https://telco-customer-churn-h8-api.herokuapp.com/
+    - v1/
+        - options :
+            this contains the options for the api form
+        - predict :
+            this is used to predict 1 set of data
+        - batch_predict :
+            this use for batch prediction mus use POST method and send the data in 'file' key
